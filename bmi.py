@@ -3,7 +3,6 @@
 
 from tkinter import *
 from tkinter import messagebox
-from tkinter import font
 
 # giving a title to the window and adding a heading
 window = Tk()
